@@ -62,7 +62,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 ### 🧪 Running tests
 
-There is no tests for this project.
+There are no tests for this project.
 
 ## 🙋‍♀️ Authors
 
@@ -74,4 +74,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-No resources.
+There are no other resources for this project.
