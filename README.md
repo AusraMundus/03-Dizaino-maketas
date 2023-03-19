@@ -11,9 +11,9 @@ _Simple page design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://ausramundus.github.io/03-Happy-birthday/
+Site published at: https://ausramundus.github.io/03-friday-challenge-1st-design/
 
-Design: [Happy Birthday](#)
+Design: [Happy Birthday](./MicrosoftTeams-image.png)
 
 ## 🎯 Project features/goals
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/AusraMundus/03-Happy-Birthday.git
+    git clone https://github.com/AusraMundus/03-friday-challenge-1st-design.git
     ```
 2. Install NPM packages
     ```sh
