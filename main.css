@@ -1,38 +1,38 @@
 body {
     background-color: white;
     width: 800px;
-    margin-left: calc((100% - 800px) / 2)"
+    margin-left: calc((100% - 800px) / 2);
 }
     
-main {
-    display: inline-block;
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px;
 }
         
-div {
+.left-column {
     display: inline-block;
     width: 30%;
-    text-align: center; 
-    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
             
-h1 {
-    font-family: Arial, Helvetica, sans-serif; 
+.title {
     line-height: 1.3em;
 }
             
-p {
-    font-family: Arial, Helvetica, sans-serif;
+.description {
     line-height: 1.3em;
 }
             
-cite {
-    font-family: Arial, Helvetica, sans-serif;
+.author {
     color: grey;
-    line-height: 1.3em; 
     font-style: normal;
 }
 
-img {
+.main-image {
+    width: 70%;
     width: 400px;
     float: right;
 }
